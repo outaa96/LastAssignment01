@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "958611737697",
+    "project_id": "lastassignment01-dcb5e",
+    "storage_bucket": "lastassignment01-dcb5e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:958611737697:android:36c9eb333c673e2c0cae20",
+        "android_client_info": {
+          "package_name": "com.example.syncfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "958611737697-m8rhr3p3afglhvhth5ao222j4n7at0if.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtl-BkY6hjssrRhS_E87iRBY_mojTSOXE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "958611737697-m8rhr3p3afglhvhth5ao222j4n7at0if.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
